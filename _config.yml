@@ -1,0 +1,26 @@
+title: "My Personal Site"
+description: "Thoughts, notes, and experiments."
+author: "Your Name"
+url: "" # Set to 'https://username.github.io' after deployment
+baseurl: "" # Leave empty for root
+
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: "Your Name"
+
+theme: null
+
+exclude:
+  - README.md
+
