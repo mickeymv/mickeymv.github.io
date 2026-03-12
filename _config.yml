@@ -1,6 +1,6 @@
-title: "My Personal Site"
-description: "Thoughts, notes, and experiments."
-author: "Your Name"
+title: "Mickey Vellukunnel"
+description: "Thoughts, notes, and experiments by Mickey Vellukunnel."
+author: "Mickey Vellukunnel"
 url: "" # Set to 'https://username.github.io' after deployment
 baseurl: "" # Leave empty for root
 
@@ -17,7 +17,7 @@ defaults:
       type: "posts"
     values:
       layout: post
-      author: "Your Name"
+      author: "Mickey Vellukunnel"
 
 theme: null
 
