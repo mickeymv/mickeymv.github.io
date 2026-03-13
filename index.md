@@ -17,28 +17,3 @@ description: "Personal site and engineering notes."
   </div>
 </section>
 
-<section class="posts-list">
-  <h2 class="card-title">Latest posts</h2>
-  {% if site.posts and site.posts.size > 0 %}
-    {% for post in site.posts limit: 5 %}
-      <article class="post-list-item">
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          <h3 class="post-title">{{ post.title }}</h3>
-          <p class="post-meta">
-            {{ post.date | date: "%b %-d, %Y" }}
-            {% if post.tags and post.tags.size > 0 %} · {{ post.tags | join: ", " }}{% endif %}
-          </p>
-          {% if post.excerpt %}
-            <p class="card-excerpt">{{ post.excerpt | strip_html | strip_newlines }}</p>
-          {% endif %}
-        </a>
-      </article>
-    {% endfor %}
-  {% else %}
-    <p class="content">
-      No posts yet. Create a file under <code>_posts/</code> named
-      <code>YYYY-MM-DD-title.md</code> to publish your first post.
-    </p>
-  {% endif %}
-</section>
-
