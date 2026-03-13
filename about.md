@@ -19,5 +19,9 @@ permalink: /about/
     As I get more comfortable with the frontend stack, I may evolve this into a richer web
     app, but the goal is to keep the operational overhead close to zero.
   </p>
+  <p>
+    You can also find me on
+    <a href="https://www.linkedin.com/in/mickeyv/" target="_blank" rel="noopener">LinkedIn</a>.
+  </p>
 </div>
 
