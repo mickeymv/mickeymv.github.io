@@ -21,7 +21,9 @@ permalink: /about/
   </p>
   <p>
     You can also find me on
-    <a href="https://www.linkedin.com/in/mickeyv/" target="_blank" rel="noopener">LinkedIn</a>.
+    <a href="https://www.linkedin.com/in/mickeyv/" target="_blank" rel="noopener">LinkedIn</a>
+    and
+    <a href="https://scholar.google.com/citations?hl=en&amp;user=_icWm2MAAAAJ" target="_blank" rel="noopener">Google Scholar</a>.
   </p>
 </div>
 
