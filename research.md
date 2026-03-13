@@ -12,6 +12,20 @@ permalink: /research/
     interact with intelligent tutoring systems.
   </p>
 
+  <p>
+    I was a member of the
+    <a href="https://learndialogue.org/person.php?id=mvelluku" target="_blank" rel="noopener">
+      LearnDialogue research lab at the University of Florida
+    </a>,
+    where I published research on computer science education and student engagement. I was also
+    involved with the
+    <a href="https://www.cs.unc.edu/~kmp/peerteachingfellows/" target="_blank" rel="noopener">
+      Peer Teaching Fellows program
+    </a>,
+    a multi-institution effort funded by Google and the National Science Foundation to study and
+    scale effective peer teaching in introductory computer science courses.
+  </p>
+
   <h2>Publications</h2>
   <ul>
     <li>
